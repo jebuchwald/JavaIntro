@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Function</string>
+    <string name="shape">*</string>
+    <string name="erase">Erase</string>
+    <string name="add">Add</string>
+    <string name="message">Hello</string>
+
+</resources>

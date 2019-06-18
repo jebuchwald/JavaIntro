@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="ticketMessage">Your ticket price: </string>
+    <string name="price">$0</string>
+</resources>

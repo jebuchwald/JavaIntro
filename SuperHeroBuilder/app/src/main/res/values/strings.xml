@@ -1,14 +1,13 @@
 <resources>
-    <string name="app_name">Superhero Builder</string>
+    <string name="app_name">superherobuilder</string>
     <string name="openingMessage">Let\'s build a superhero!!</string>
-    <string name="heroNamePrompt">What is your hero's super name?</string>
+    <string name="heroNamePrompt">What is your hero\'s super name?</string>
     <string name="heroPowerPrompt">What is Hero\'s superpower?</string>
     <string name="heroPowerPrompt2">How strong is the superpower?</string>
     <string name="name">Superhero Name</string>
     <string name="power">Power</string>
     <string name="strength">10</string>
-    <string name="button">That's the one!</string>
-    <string name="confirmationMessage">STATS</string>
-
+    <string name="button">That\'s the one!</string>
+    <string name="confirmationMessage">STATS:</string>
 
 </resources>
